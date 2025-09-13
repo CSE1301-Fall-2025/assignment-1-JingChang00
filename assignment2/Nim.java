@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Nim {
+public class Nim { 
     public static void main(String[] args) {
         Scanner n1 = new Scanner(System.in);
         int total;
